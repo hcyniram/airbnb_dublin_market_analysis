@@ -3,7 +3,7 @@
 ## 📋 Project Overview
 This project explores user search behavior and host response patterns on Airbnb. By analyzing search logs and the resulting conversion funnel, I identified a significant structural mismatch between traveler demand and available inventory. The project provides data-driven strategies to close market gaps and increase overall booking volume.
 
-[Project Data & Description Link]([url](https://platform.stratascratch.com/data-projects/market-analysis-dublin)) 
+[Project Data & Description Link](https://platform.stratascratch.com/data-projects/market-analysis-dublin) 
 
 ---
 
